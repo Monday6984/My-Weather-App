@@ -7,7 +7,7 @@ The purpose of the project is to create a  a weather app where users can get wea
 ## Screenshots
 ![my-weather-today screenshot](./images/App Image.PNG)
 
-## [live Demo](https://my-weather-today-28b5f.web.app/)
+## [live Demo](https://monday6984.github.io/My-Weather-App/)
 
 ## How to run
 *Download the entire folder on your laptop/computer.
